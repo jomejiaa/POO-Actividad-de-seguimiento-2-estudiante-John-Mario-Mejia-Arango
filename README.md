@@ -8,3 +8,4 @@ En este repositorio están los entregables relacionados con los ejercicios de se
 En esta actividad se trabajo con Python o más específicamente con Google Colab, en el documento PDF encontrara la portada, código fuente de cada ejercicio, el diagrama de clases para cada ejercicio y la URL de cada ejercicio en Colab, en adición la URL de este repositorio.
 
 PDF
+[Programación Orientada a Objetos seguimiento 2 JMMA 1017243551cc.pdf](https://github.com/user-attachments/files/33234555/Programacion.Orientada.a.Objetos.seguimiento.2.JMMA.1017243551cc.pdf)
